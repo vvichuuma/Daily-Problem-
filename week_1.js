@@ -26,16 +26,16 @@ console.log("This is week 1");
 
 // 5). Average:
 
-let sum = 0;
+// let sum = 0;
 
-function average(a) {
-  a.forEach(n => {
-    sum += n;
-  });
+// function average(a) {
+//   a.forEach(n => {
+//     sum += n;
+//   });
 
-  let l = a.length;
+//   let l = a.length;
 
-  console.log("The average is " + sum / l);
-}
+//   console.log("The average is " + sum / l);
+// }
 
-average([2, 1, 7, 5]);
+// average([2, 1, 7, 5]);
